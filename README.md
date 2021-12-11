@@ -21,4 +21,5 @@
 
 ## 🚀 POWORD BY 🚀
 
-@Developersrilankan
+- [![TELEGRAM CHANEL](https://img.shields.io/badge/🚀POWORD🚀-BY🔥-brightgreen)](https://t.me/Developersrilankan)
+
