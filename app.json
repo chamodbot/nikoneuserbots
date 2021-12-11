@@ -1,13 +1,13 @@
 {
-  "name": "Catuserbot",
-  "description": "A simple Telegram userbot based on Telethon . Maintained by Sandeep ",
-  "logo": "https://telegra.ph/file/3d60313110c58684b31ea.jpg",
+  "name": "nikoneuserbots",
+  "description": "A simple Telegram userbot based on Telethon . Maintained by @chamod_deshan ",
+  "logo": "https://te.legra.ph/file/b4bcbd583c09e74f0a565.jpg",
   "keywords": [
     "plugin",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/sandy1709/catuserbot/",
+  "repository": "https://github.com/chamodbot/nikoneuserbots/",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -53,7 +53,7 @@
     },
     "TZ": {
       "description": "Required for Correct Time on autopic/get time. Know your timezone from http://www.timezoneconverter.com/cgi-bin/findzone.tzc",
-      "value": "Asia/Kolkata",
+      "value": "Asia/colombo",
       "required": false
     },
     "UPSTREAM_REPO": {
