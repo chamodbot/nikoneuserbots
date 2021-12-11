@@ -11,10 +11,14 @@
 - [![TELEGRAM GROUP](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/Developernikoneteam)
 
 
-- [![TELEGRAM CHANEL](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/Developernikoneteamchanel)
+- [![TELEGRAM CHANEL](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/Developersrilankan)
 
   
 - [![BOT OWNER](https://img.shields.io/badge/BOT-OWNER-brightgreen)](https://t.me/chamod_deshan)
 
 
 - [![BOT OWNER](https://img.shields.io/badge/BOT-SUPORT-brightgreen)](https://t.me/bimsaramalinga)
+
+## 🚀 POWORD BY 🚀
+
+@Developersrilankan
