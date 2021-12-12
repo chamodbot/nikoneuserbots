@@ -5,7 +5,7 @@
 
 ## 🔥 Deploy🔥
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/chamodbot/nikoneuserbots)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/chamodbot/nikoneuserbots.git)
 
 ## 🔥TELEGRAM 🔥
 - [![TELEGRAM GROUP](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/Developernikoneteam)
